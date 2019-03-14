@@ -35,12 +35,12 @@ def prepare_RSA(digits):
     while True:
         e = random.randint(2,tolient_product)
         if ext_euclid(e, tolient_product)[2] == 1:
-            break;
+            break
 
     # Find its modular multiplicative inverse using Extended Euclidean algorithm
     l = ext_euclid(e, tolient_product)[0] 
     if l < 0:
-        l += tolient_product;
+        l += tolient_product
     return N, e, l
 
 
