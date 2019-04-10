@@ -1,0 +1,17 @@
+HW5
+
+define some weird aspect of lotteries
+
+2-norm dist
+...blablabla
+
+and calculate correlation
+
+
+Mid Project
+Why not submit c++? (lol
+
+write a command in linux that is silmiar to man but user can edit it
+so it feels more comfort/simple when looking at
+https://hackmd.io/s/SySTMXPvl
+https://stackoverflow.com/questions/89228/calling-an-external-command-in-python
