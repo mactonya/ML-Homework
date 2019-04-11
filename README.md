@@ -4,6 +4,6 @@
 
 **THE MIDTERM/FINAL PROJECT WILL BE ON THE FOLLOWING LINK INSTEAD OF HERE:**
 
-**https://smith1234567890.visualstudio.com/MLProject**
+**https://dev.azure.com/smith1234567890/MLProject**
 
 Sorry for the inconvenience.
