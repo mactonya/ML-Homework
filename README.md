@@ -1,9 +1,6 @@
 # Description
-
-**DUE TO TESTING SOME FEATURE OF Microsoft Azure Repos,**
-
 **THE MIDTERM/FINAL PROJECT WILL BE ON THE FOLLOWING LINK INSTEAD OF HERE:**
 
-**https://dev.azure.com/smith1234567890/MLProject**
+**https://github.com/macyayaya/MLProject**
 
 Sorry for the inconvenience.
